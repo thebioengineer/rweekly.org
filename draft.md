@@ -100,6 +100,8 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [Cascadia R Conf Call For Papers is Open!](cascadiarconf.com/cfp): CFP closes July 4, Conference September 17th
+
 
 ###  Call for Participation
 
