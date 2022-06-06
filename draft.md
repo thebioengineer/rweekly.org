@@ -58,6 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [TidyX Screencast Episode 105 - R Classes and Objects - Base](bit.ly/TidyX_Ep105) - Join Ellis and Patrick on TidyX as they talk about some of the base object types that exist in R and how to create, acccess, and update Vectors, Matrices, and Data.Frames.
 
 
 ### Gist & Cookbook
